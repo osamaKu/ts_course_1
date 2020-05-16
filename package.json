@@ -1,0 +1,8 @@
+{
+  "name": "course_3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:osamaKu/ts_course_1.git",
+  "author": "osamaKu <osamaklaib1981@gmail.com>",
+  "license": "MIT"
+}
